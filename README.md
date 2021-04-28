@@ -1,4 +1,5 @@
-# Soft_hard_Assertion
+# Soft_hard_Assertion _examble for http://demo.guru99.com/test/newtours/index.php
+
 1) Assert.assertTrue() & Assert.assertFalse()
 
 Note: Assert true statement fails the test and stop the execution of the test, if the actual output is false. Assert.assertFalse() works opposite of Assert.assertTrue(). It means that if you want your test to continue only if when some certain element is not present on the page. You will use Assert false, so it will fail the test in case of the element present on the page.
